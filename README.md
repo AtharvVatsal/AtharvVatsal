@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently exploring various fields to discover my true passion.<br><br>🤝 Seeking guidance on learning Machine Learning from the ground up.<br><br>🌱 Actively learning Java and the essential mathematics for MLOps.<br><br>💬 Feel free to ask me about front-end and back-end development.<br><br>⚡ Fun fact: I'm a dedicated hobbyist photographer who takes my craft quite seriously! 😄
+🔭 Currently exploring various fields to discover my true passion.<br><br>🤝 Seeking guidance on learning Machine Learning from the ground up.<br><br>🌱 Actively learning Java, Data Structure and Algorithm, and the essential mathematics for MLOps.<br><br>💬 Feel free to ask me about front-end and back-end development.<br><br>⚡ Fun fact: I'm a dedicated hobbyist photographer who takes my craft quite seriously! 😄
 
 
 ## 🌐 Socials:
