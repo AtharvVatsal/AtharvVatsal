@@ -1,21 +1,77 @@
+# Atharv Vatsal (AV)
 
-# 💻 Tech Stack:
-![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AtharvVatsal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AtharvVatsal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvVatsal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AtharvVatsal&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AtharvVatsal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+> CS Undergraduate · AI/ML · Research × Systems × Creative Computation
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AtharvVatsal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 
+I build at the intersection of learning systems, structure, and experimentation.  
+Most of my work explores how models behave, adapt, and fail — and what that reveals.
+
+---
+
+## Selected Work
+
+### ▸ Project One
+Short one-line description — what it does, not what tech it uses.  
+*Focus: outcome / idea / novelty*
+
+### ▸ Project Two
+Short one-line description — something that shows depth or experimentation.  
+*Focus: problem solved*
+
+### ▸ Project Three
+Optional — only if it adds signal.  
+*Focus: uniqueness*
+
+---
+
+## Language Distribution
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvVatsal&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa"/>
+</p>
+
+---
+
+## Current
+
+- working on: _[your current project / research direction]_
+- exploring: _[concepts / frameworks / ideas]_
+- reading: _[papers / domains / themes]_
+
+---
+
+## Research Interests
+
+- representation learning  
+- model interpretability  
+- adaptive / learning systems  
+
+---
+
+## Thinking About
+
+- how models generalize beyond training distributions  
+- trade-offs between performance and interpretability  
+- where structure meets learning  
+
+---
+
+## Presence
+
+- portfolio → https://www.atharvatsal.com
+
+---
+
+## 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AtharvVatsal/AtharvVatsal/output/snake.svg" alt="contribution snake"/>
+</p>
+
+---
+
+## Contact
+
+Minimal by design.
